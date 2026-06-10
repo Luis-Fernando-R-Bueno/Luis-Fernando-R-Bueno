@@ -1,1 +1,69 @@
+<h1 align="center">Olá, eu sou Luis Fernando Rodrigues Bueno 👋</h1>
 
+<p align="center">
+💻 Desenvolvedor em formação | 🏥 Santa Casa de Tupã | 🏃 Corredor
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+🎓 Estudante de Desenvolvimento de Sistemas na ETEC
+
+🏥 Atuo na Santa Casa de Misericórdia de Tupã
+
+💻 Focado em desenvolvimento Back-End
+
+📚 Transformando problemas reais em soluções de software
+
+🏃 Corredor amador apaixonado por evolução contínua
+
+---
+
+## 🔥 Projeto em destaque
+
+### SC Censo Diário
+
+Sistema desenvolvido para otimizar a conferência de prontuários hospitalares.
+
+Principais funcionalidades:
+
+- Importação de planilhas XLSX
+- Filtros por ala, convênio e período
+- Geração de checklist
+- Controle de conferência
+- Geração de PDF
+- Organização de censos hospitalares
+
+---
+
+## 🛠️ Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+---
+
+## 📊 Estatísticas
+
+![Luis GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis-Fernando-R-Bueno&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Fernando-R-Bueno&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+📧 77luisnando@gmail.com
+
+📍 Tupã - SP
+
+📸 Instagram: @luisnanddo
+
+---
+
+> "Transformando problemas reais em software útil."

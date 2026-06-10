@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Luis Fernando Rodrigues Bueno 👋</h1>
+<h1 align="center">📌 Luis Fernando Rodrigues Bueno 👋</h1>
 
 <p align="center">
   <a href="https://www.instagram.com/luisnanddo">

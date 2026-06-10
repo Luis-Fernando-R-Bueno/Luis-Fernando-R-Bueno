@@ -24,6 +24,8 @@
 
 ### SC Censo Diário
 
+"Um problema do corredor virou projeto"
+
 Sistema desenvolvido para otimizar a conferência de prontuários hospitalares.
 
 Principais funcionalidades:
@@ -47,23 +49,3 @@ Principais funcionalidades:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
 ---
-
-## 📊 Estatísticas
-
-![Luis GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis-Fernando-R-Bueno&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Fernando-R-Bueno&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contato
-
-📧 77luisnando@gmail.com
-
-📍 Tupã - SP
-
-📸 Instagram: @luisnanddo
-
----
-
-> "Transformando problemas reais em software útil."

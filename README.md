@@ -18,34 +18,62 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de Desenvolvimento de Sistemas na ETEC
+💻 Estudante de Desenvolvimento de Sistemas com foco em Back-End
 
-🏥 Atuo na Santa Casa de Misericórdia de Tupã
+📚 Desenvolvendo soluções para problemas reais através da tecnologia
 
-💻 Focado em desenvolvimento Back-End
+🏥 Criador de sistemas voltados para otimização de processos hospitalares
 
-📚 Transformando problemas reais em soluções de software
+📊 Entusiasta de organização financeira e automação de rotinas
 
 🏃 Corredor amador apaixonado por evolução contínua
 
 ---
 
-## 🔥 Projeto em destaque
+## 🔥 Projetos em Destaque
 
-### SC Censo Diário
+### 🏥 SC Censo Diário
 
-"Um problema do corredor virou projeto"
+Sistema desenvolvido para otimizar a conferência de prontuários hospitalares e auxiliar no processo de faturamento.
 
-Sistema desenvolvido para otimizar a conferência de prontuários hospitalares.
+**Principais funcionalidades:**
 
-Principais funcionalidades:
+* Importação de planilhas XLSX
+* Filtros por ala, convênio e período
+* Agrupamento por médico ou ala
+* Controle de conferência de prontuários
+* Geração de checklist
+* Exportação em PDF
+* Visualização prévia dos relatórios
 
-- Importação de planilhas XLSX
-- Filtros por ala, convênio e período
-- Geração de checklist
-- Controle de conferência
-- Geração de PDF
-- Organização de censos hospitalares
+**Tecnologias:** React, JavaScript, Vite, LocalStorage
+
+---
+
+### 📊 Controle de Gastos Pessoais
+
+Sistema web criado para substituir planilhas financeiras e facilitar o acompanhamento das despesas do dia a dia.
+
+**Principais funcionalidades:**
+
+* Cadastro e gerenciamento de gastos
+* Controle de categorias personalizadas
+* Pesquisa e filtros dinâmicos
+* Painel financeiro mensal
+* Resumo por categoria
+* Histórico completo de lançamentos
+* Persistência local com LocalStorage
+
+**Tecnologias:** React, JavaScript, Vite, LocalStorage
+
+---
+
+## 🎯 Objetivos Atuais
+
+* Evoluir minhas habilidades em Back-End
+* Aprimorar conhecimentos em banco de dados
+* Construir aplicações com foco em problemas reais
+* Expandir meus projetos para versões com API e banco de dados
 
 ---
 
@@ -61,3 +89,7 @@ Principais funcionalidades:
 </p>
 
 ---
+
+<p align="center">
+  <i>"Transformando necessidades do dia a dia em soluções de software."</i>
+</p>

@@ -74,7 +74,7 @@ Sistema para conferência e organização de prontuários hospitalares.
 * Checklist de conferência
 * Geração de PDF
 * Filtros avançados
-* Agrupamento por ala e médico
+* Agrupamento por ala e médic
 
 </td>
 

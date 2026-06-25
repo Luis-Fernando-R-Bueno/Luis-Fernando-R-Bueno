@@ -19,15 +19,15 @@
 
 <br>
 
-<div align="center">
+```html
+<p align="center">
+  <img src="https://img.shields.io/badge/Transformando%20necessidades%20do%20dia%20a%20dia-9f1d2f?style=for-the-badge&labelColor=9f1d2f&color=9f1d2f" />
+</p>
 
-```bash
-
-  "Transformando necessidades do dia a dia em soluções de software."
-
-````
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/em%20solu%C3%A7%C3%B5es%20de%20software-9f1d2f?style=for-the-badge&labelColor=9f1d2f&color=9f1d2f" />
+</p>
+```
 
 ---
 

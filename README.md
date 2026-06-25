@@ -22,26 +22,9 @@
 <div align="center">
 
 ```bash
-> quem_sou_eu
 
-Luis Fernando Rodrigues Bueno
+  "Transformando necessidades do dia a dia em soluções de software."
 
-> atualmente
-
-🏥 Desenvolvendo soluções para problemas reais
-
-🏃 Futuro IRONMAN
-
-> projetos_atuais
-
-SC Censo Diário
-Controle de Gastos
-
-> estudando
-
-Java
-React
-PostgreSQL
 ````
 
 </div>
@@ -103,10 +86,4 @@ Aplicação para organização financeira pessoal, substituindo planilhas por um
 </table>
 
 ---
-
-<p align="center">
-  <i>
-    "Transformando necessidades do dia a dia em soluções de software."
-  </i>
-</p>
 

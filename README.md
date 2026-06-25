@@ -1,6 +1,6 @@
 ````md
 <p align="center">
-  <img src="./banner-luis.png" alt="Luis Fernando Rodrigues Bueno"/>
+  <img src="https://raw.githubusercontent.com/Luis-Fernando-R-Bueno/Luis-Fernando-R-Bueno/main/banner-luis.png" width="100%">
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ Sistema para conferência e organização de prontuários hospitalares.
 * Checklist de conferência
 * Geração de PDF
 * Filtros avançados
-* Agrupamento por ala e médic
+* Agrupamento por ala e médico
 
 </td>
 

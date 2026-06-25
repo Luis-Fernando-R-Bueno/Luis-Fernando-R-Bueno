@@ -58,7 +58,10 @@ PostgreSQL
 
 <h2 align="center">🚀 Principais Projetos</h2>
 
-<div align="center">
+<table align="center">
+<tr>
+
+<td width="45%" valign="top" align="center">
 
 ### 🏥 SC Censo Diário
 
@@ -74,11 +77,15 @@ Sistema desenvolvido para otimizar a conferência de prontuários hospitalares e
 
 ✔ Exportação em PDF
 
-<br>
+</td>
+
+<td width="10%"></td>
+
+<td width="45%" valign="top" align="center">
 
 ### 📊 Controle de Gastos
 
-Aplicação para organização financeira pessoal, substituindo planilhas por uma experiência mais simples e intuitiva.
+Aplicação para organização financeira pessoal, substituindo planilhas por uma experiência simples e intuitiva.
 
 ✔ Cadastro de receitas e despesas
 
@@ -88,15 +95,18 @@ Aplicação para organização financeira pessoal, substituindo planilhas por um
 
 ✔ Relatórios mensais
 
-✔ Histórico completo de movimentações
+✔ Histórico de movimentações
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
 <p align="center">
   <i>
-    Transformando necessidades do dia a dia em soluções de software.
+    "Transformando necessidades do dia a dia em soluções de software."
   </i>
 </p>
-```
+

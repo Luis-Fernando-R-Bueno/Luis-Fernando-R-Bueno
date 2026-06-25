@@ -1,3 +1,4 @@
+````md
 <p align="center">
   <img src="https://github.com/Luis-Fernando-R-Bueno/Luis-Fernando-R-Bueno/raw/main/banner-luis.png" width="100%">
 </p>
@@ -21,40 +22,33 @@
 <div align="center">
 
 ```bash
-> whoami
+> quem_sou_eu
 
 Luis Fernando Rodrigues Bueno
 
-> current_status
+> atualmente
 
-🏥 Building real-world software solutions
-🏃 Future IRONMAN
+🏥 Desenvolvendo soluções para problemas reais
 
-> currently_working_on
+🏃 Futuro IRONMAN
+
+> projetos_atuais
 
 SC Censo Diário
 Controle de Gastos
 
-> next_step
+> estudando
 
-Java • Spring Boot • PostgreSQL
+Java
+React
+PostgreSQL
 ````
 
 </div>
 
 ---
 
-<h2 align="center">⚡ GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luis-Fernando-R-Bueno&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Fernando-R-Bueno&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Tecnologias</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,mysql,postgresql,git,github,vscode"/>
@@ -62,75 +56,47 @@ Java • Spring Boot • PostgreSQL
 
 ---
 
-<h2 align="center">🎯 Current Missions</h2>
+<h2 align="center">🚀 Principais Projetos</h2>
 
-```text
-[████████░░] Graduate in Systems Development
-
-[██████░░░░] Master Java Back-End
-
-[███████░░░] Evolve SC Censo Diário
-
-[██████░░░░] Launch new personal projects
-
-[████░░░░░░] Become an IRONMAN
-```
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
+<div align="center">
 
 ### 🏥 SC Censo Diário
 
-Hospital checklist and medical records management system.
+Sistema desenvolvido para otimizar a conferência de prontuários hospitalares e auxiliar processos de faturamento.
 
-✔ XLSX Import
+✔ Importação de planilhas XLSX
 
-✔ Smart Filters
+✔ Filtros por período, ala e convênio
 
-✔ PDF Generation
+✔ Geração de checklist
 
-✔ Checklist Workflow
+✔ Agrupamento por médico ou ala
 
-✔ Medical & Ward Grouping
+✔ Exportação em PDF
 
-</td>
-
-<td width="50%" valign="top">
+<br>
 
 ### 📊 Controle de Gastos
 
-Personal finance management application.
+Aplicação para organização financeira pessoal, substituindo planilhas por uma experiência mais simples e intuitiva.
 
-✔ Expense Tracking
+✔ Cadastro de receitas e despesas
 
-✔ Categories
+✔ Categorias personalizadas
 
-✔ Dashboard
+✔ Dashboard financeiro
 
-✔ Reports
+✔ Relatórios mensais
 
-✔ Financial Organization
+✔ Histórico completo de movimentações
 
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luis-Fernando-R-Bueno&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luis-Fernando-R-Bueno&style=for-the-badge&color=9f1d2f"/>
+  <i>
+    Transformando necessidades do dia a dia em soluções de software.
+  </i>
 </p>
 ```

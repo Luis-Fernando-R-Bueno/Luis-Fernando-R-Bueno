@@ -28,7 +28,7 @@
 <h2 align="center">🛠️ Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,mysql,postgresql,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,mysql,git,github,vscode"/>
 </p>
 
 ---

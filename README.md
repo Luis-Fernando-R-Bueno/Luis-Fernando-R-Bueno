@@ -43,7 +43,10 @@
 ### 🏥 SC Censo Diário
 
 <p align="center">
-  <a href="https://trello.com/b/RdNigJIp/sc-censo-diaro"></a>
+  <a href="https://trello.com/b/RdNigJIp/sc-censo-diaro">
+    <img src="https://img.shields.io/badge/SC%20Censo%20Diário-FF0000?style=for-the-badge" />
+  </a>
+</p>
 
 Sistema desenvolvido para otimizar a conferência de prontuários hospitalares e auxiliar processos de faturamento.
 

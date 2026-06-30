@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://trello.com/b/RdNigJIp/sc-censo-diaro">
-    <img src="https://img.shields.io/badge/🏥 SC%20Censo%20Diário-9f1d2f?style=for-the-badge&logo=trello&logoColor=white" />
+    <img src="https://img.shields.io/badge/SC%20Censo%20Diário-9f1d2f?style=for-the-badge&logo=trello&logoColor=white" />
   </a>
 </p>
 

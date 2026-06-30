@@ -42,6 +42,9 @@
 
 ### 🏥 SC Censo Diário
 
+<p align="center">
+  <a href="https://trello.com/b/RdNigJIp/sc-censo-diaro"></a>
+
 Sistema desenvolvido para otimizar a conferência de prontuários hospitalares e auxiliar processos de faturamento.
 
 ✔ Importação de planilhas XLSX

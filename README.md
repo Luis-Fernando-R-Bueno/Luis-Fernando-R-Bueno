@@ -40,7 +40,7 @@
 
 <td width="45%" valign="top" align="center">
 
-### 🏥 SC CENSO DIÁRIO
+### 🏥 SC Censo Diário
 
 <p align="center">
   <a href="https://trello.com/b/RdNigJIp/sc-censo-diaro">
@@ -66,7 +66,7 @@ Sistema desenvolvido para otimizar a conferência de prontuários hospitalares e
 
 <td width="45%" valign="top" align="center">
 
-### 📊 CONTROLE DE GASTOS
+### 📊 Liora
 
 Aplicação para organização financeira pessoal, substituindo planilhas por uma experiência simples e intuitiva.
 

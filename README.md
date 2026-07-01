@@ -35,18 +35,18 @@
 
 <h2 align="center">🚀 Principais Projetos</h2>
 
+<p align="center">
+  <a href="https://trello.com/b/RdNigJIp/sc-censo-diaro">
+    <img src="https://img.shields.io/badge/Contribua%20comigo%20com%20sua%20ideia-9f1d2f?style=for-the-badge&logo=trello&logoColor=white" />
+  </a>
+</p>
+
 <table align="center">
 <tr>
 
 <td width="45%" valign="top" align="center">
 
 ### 🏥 SC Censo Diário
-
-<p align="center">
-  <a href="https://trello.com/b/RdNigJIp/sc-censo-diaro">
-    <img src="https://img.shields.io/badge/SC%20Censo%20Diário-9f1d2f?style=for-the-badge&logo=trello&logoColor=white" />
-  </a>
-</p>
 
 Sistema desenvolvido para otimizar a conferência de prontuários hospitalares e auxiliar processos de faturamento.
 

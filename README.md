@@ -87,12 +87,12 @@ Aplicação para organização financeira pessoal, substituindo planilhas por um
 
 ---
 
-<h2 align="center">🔥 Sequência de Contribuições</h2>
+<h2 align="center">👾 Sequência de Contribuições</h2>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Luis-Fernando-R-Bueno&theme=transparent&border=9f1d2f&stroke=9f1d2f&ring=9f1d2f&fire=9f1d2f&currStreakLabel=9f1d2f"
-  />
+  src="https://streak-stats.demolab.com?user=Luis-Fernando-R-Bueno&theme=transparent&border=9f1d2f&stroke=9f1d2f&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideNums=f59e0b&sideLabels=ffffff&dates=ffffff"
+/>
 </p>
 
 

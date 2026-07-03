@@ -92,15 +92,8 @@ Aplicação para organização financeira pessoal, substituindo planilhas por um
 <h2 align="center">📈 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Luis-Fernando-R-Bueno&show_icons=true&theme=transparent&title_color=9f1d2f&icon_color=9f1d2f&text_color=ffffff&border_color=9f1d2f&hide_border=false&rank_icon=github"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Fernando-R-Bueno&layout=compact&theme=transparent&title_color=9f1d2f&text_color=ffffff&border_color=9f1d2f&hide_border=false"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luis-Fernando-R-Bueno&show_icons=true&theme=dracula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Fernando-R-Bueno&layout=compact&theme=dracula" />
 </p>
 
 ---
@@ -113,11 +106,4 @@ Aplicação para organização financeira pessoal, substituindo planilhas por um
   />
 </p>
 
-<h2 align="center">🏆 Conquistas</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Luis-Fernando-R-Bueno&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4"
-  />
-</p>
 

@@ -76,7 +76,7 @@ Aplicação para organização financeira pessoal, substituindo planilhas por um
 
 ✔ Dashboard financeiro
 
-✔ Relatórios mensais
+⏳ Relatórios mensais
 
 ✔ Histórico de movimentações
 

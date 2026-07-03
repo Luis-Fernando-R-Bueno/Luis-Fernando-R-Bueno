@@ -87,8 +87,6 @@ Aplicação para organização financeira pessoal, substituindo planilhas por um
 
 ---
 
-<h2 align="center">👾 Sequência de Contribuições</h2>
-
 <h2 align="center">🔥 Sequência de Contribuições</h2>
 
 <p align="center">

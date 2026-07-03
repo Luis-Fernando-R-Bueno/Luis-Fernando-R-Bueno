@@ -87,17 +87,6 @@ Aplicação para organização financeira pessoal, substituindo planilhas por um
 
 ---
 
----
-
-<h2 align="center">📈 Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luis-Fernando-R-Bueno&show_icons=true&theme=dracula" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Fernando-R-Bueno&layout=compact&theme=dracula" />
-</p>
-
----
-
 <h2 align="center">🔥 Sequência de Contribuições</h2>
 
 <p align="center">

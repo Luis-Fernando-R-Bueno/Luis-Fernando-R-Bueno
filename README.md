@@ -94,5 +94,3 @@ Aplicação para organização financeira pessoal, substituindo planilhas por um
     src="https://streak-stats.demolab.com?user=Luis-Fernando-R-Bueno&theme=transparent&border=9f1d2f&stroke=9f1d2f&ring=9f1d2f&fire=9f1d2f&currStreakLabel=9f1d2f"
   />
 </p>
-
-

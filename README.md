@@ -28,7 +28,7 @@
 <h2 align="center">🛠️ Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,react,nodejs,mysql,git,vscode,css" alt="C#, .NET, TypeScript, React, Node.js, MySQL, Git, VS Code e CSS">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,react,nodejs,mysql,git,css" alt="C#, .NET, TypeScript, React, Node.js, MySQL, Git e CSS">
 </p>
 
 ---

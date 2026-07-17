@@ -11,10 +11,6 @@
   <a href="mailto:77luisnando@gmail.com">
     <img src="https://img.shields.io/badge/Email-9f1d2f?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://www.facebook.com/luisnanddo">
-    <img src="https://img.shields.io/badge/Facebook-9f1d2f?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
 </p>
 
 <br>

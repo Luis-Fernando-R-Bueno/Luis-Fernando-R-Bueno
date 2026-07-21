@@ -42,29 +42,9 @@
 
 <td width="45%" valign="top" align="center">
 
-### 🏥 SC Censo Diário
+### 💰 Liora
 
-Sistema desenvolvido para otimizar a conferência de prontuários hospitalares e auxiliar processos de faturamento.
-
-✔ Importação de planilhas XLSX
-
-✔ Filtros por período, ala e convênio
-
-✔ Geração de checklist
-
-✔ Agrupamento por médico ou ala
-
-✔ Exportação em PDF
-
-</td>
-
-<td width="10%"></td>
-
-<td width="45%" valign="top" align="center">
-
-### 📊 Liora
-
-Aplicação para organização financeira pessoal, substituindo planilhas por uma experiência simples e intuitiva.
+Aplicação para organização financeira pessoal desenvolvida para transformar uma necessidade do dia a dia em uma solução de software.
 
 ✔ Cadastro de receitas e despesas
 
@@ -75,6 +55,26 @@ Aplicação para organização financeira pessoal, substituindo planilhas por um
 ⏳ Relatórios mensais
 
 ✔ Histórico de movimentações
+
+</td>
+
+<td width="10%"></td>
+
+<td width="45%" valign="top" align="center">
+
+### 🏥 awesome-healthcare-brasil
+
+Uma coleção curada de ferramentas, bibliotecas, APIs, padrões e referências para desenvolvedores de sistemas de saúde no Brasil.
+
+✔ Padrões HL7, FHIR e DICOM
+
+✔ Documentação do SUS e DATASUS
+
+✔ APIs e projetos Open Source
+
+✔ Segurança, LGPD e interoperabilidade
+
+✔ Recursos para desenvolvedores da saúde
 
 </td>
 

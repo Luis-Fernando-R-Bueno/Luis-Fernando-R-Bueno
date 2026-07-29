@@ -31,12 +31,6 @@
 
 <h2 align="center">🚀 Principais Projetos</h2>
 
-<p align="center">
-  <a href="https://trello.com/b/RdNigJIp/sc-censo-diaro">
-    <img src="https://img.shields.io/badge/Contribua%20com%20sua%20ideia-9f1d2f?style=for-the-badge&logo=trello&logoColor=white" />
-  </a>
-</p>
-
 <table align="center">
 <tr>
 

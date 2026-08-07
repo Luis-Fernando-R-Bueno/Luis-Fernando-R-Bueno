@@ -42,13 +42,13 @@ Aplicação para organização financeira pessoal desenvolvida para transformar 
 
 ✔ Cadastro de receitas e despesas
 
+✔ Histórico de movimentações
+
 ✔ Categorias personalizadas
 
 ✔ Dashboard financeiro
 
 ⏳ Relatórios mensais
-
-✔ Histórico de movimentações
 
 </td>
 
@@ -60,15 +60,15 @@ Aplicação para organização financeira pessoal desenvolvida para transformar 
 
 Uma coleção curada de ferramentas, bibliotecas, APIs, padrões e referências para desenvolvedores de sistemas de saúde no Brasil.
 
-✔ Padrões HL7, FHIR e DICOM
-
-✔ Documentação do SUS e DATASUS
-
-✔ APIs e projetos Open Source
+✔ Recursos para desenvolvedores da saúde
 
 ✔ Segurança, LGPD e interoperabilidade
 
-✔ Recursos para desenvolvedores da saúde
+✔ Documentação do SUS e DATASUS
+
+✔ Padrões HL7, FHIR e DICOM
+
+✔ APIs e projetos Open Source
 
 </td>
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:780d18&height=180&section=header&text=Hi%20there,%20I'm%20Luis!%20🔥&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=welcome%20to%20my%20little%20corner%20of%20code&descSize=17&descAlignY=62&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:780d18&height=180&section=header&text=Welcome%20to%20my%20little%20corner%20of%20code&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=fadeIn"
     width="100%"
   />
 </p>

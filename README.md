@@ -28,8 +28,8 @@
     <img src="https://img.shields.io/badge/Email-9f1d2f?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <img src="https://github-view-counter.vercel.app/api?username=Luis-Fernando-R-Bueno&label=VISITORS&color=9f1d2f&labelColor=0d1117&bgColor=0d1117&style=rounded" />
-  
+  <img src="https://komarev.com/ghpvc/?username=Luis-Fernando-R-Bueno&label=VISITORS&color=9f1d2f&labelColor=9f1d2f&style=for-the-badge" />
+
 </p>
 
 <br>

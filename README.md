@@ -19,17 +19,17 @@
 <!-- ==================== SOCIAL ==================== -->
 
 <p align="center">
+
   <a href="https://www.instagram.com/luisnanddo">
-    <img
-      src="https://img.shields.io/badge/Instagram-9f1d2f?style=for-the-badge&logo=instagram&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/Instagram-9f1d2f?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="mailto:77luisnando@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-9f1d2f?style=for-the-badge&logo=gmail&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/Email-9f1d2f?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <img src="https://github-view-counter.vercel.app/api?username=Luis-Fernando-R-Bueno&label=VISITORS&color=9f1d2f&labelColor=0d1117&bgColor=0d1117&style=rounded" />
+  
 </p>
 
 <br>

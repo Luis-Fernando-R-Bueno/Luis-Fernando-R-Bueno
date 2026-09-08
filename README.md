@@ -59,50 +59,52 @@
 
 <!-- ==================== PROJECTS ==================== -->
 
+---
+
 <h2 align="center">🚀 Principais Projetos</h2>
 
 <table align="center">
-  <tr>
+<tr>
 
-    <td width="45%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-      ### 💰 Liora
+### 💰 Liora
 
-      Aplicação para organização financeira pessoal desenvolvida para transformar uma necessidade do dia a dia em uma solução de software.
+Aplicação para organização financeira pessoal desenvolvida para transformar uma necessidade do dia a dia em uma solução de software.
 
-      ✔ Cadastro de receitas e despesas
+✔ Cadastro de receitas e despesas
 
-      ✔ Histórico de movimentações
+✔ Histórico de movimentações
 
-      ✔ Categorias personalizadas
+✔ Categorias personalizadas
 
-      ✔ Dashboard financeiro
+✔ Dashboard financeiro
 
-      ⏳ Relatórios mensais
+⏳ Relatórios mensais
 
-    </td>
+</td>
 
-    <td width="10%"></td>
+<td width="10%"></td>
 
-    <td width="45%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-      ### 🏥 awesome-healthcare-brasil
+### 🏥 awesome-healthcare-brasil
 
-      Uma coleção curada de ferramentas, bibliotecas, APIs, padrões e referências para desenvolvedores de sistemas de saúde no Brasil.
+Uma coleção curada de ferramentas, bibliotecas, APIs, padrões e referências para desenvolvedores de sistemas de saúde no Brasil.
 
-      ✔ Recursos para desenvolvedores da saúde
+✔ Recursos para desenvolvedores da saúde
 
-      ✔ Segurança, LGPD e interoperabilidade
+✔ Segurança, LGPD e interoperabilidade
 
-      ✔ Documentação do SUS e DATASUS
+✔ Documentação do SUS e DATASUS
 
-      ✔ Padrões HL7, FHIR e DICOM
+✔ Padrões HL7, FHIR e DICOM
 
-      ✔ APIs e projetos Open Source
+✔ APIs e projetos Open Source
 
-    </td>
+</td>
 
-  </tr>
+</tr>
 </table>
 
 ---

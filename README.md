@@ -125,7 +125,7 @@ Uma coleção curada de ferramentas, bibliotecas, APIs, padrões e referências 
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:780d18&height=130&section=footer&text=thanks%20for%20visiting!%20❤️&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:780d18&height=130&section=footer&text=Thanks%20for%20visiting!%20❤️&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=fadeIn"
     width="100%"
   />
 </p>

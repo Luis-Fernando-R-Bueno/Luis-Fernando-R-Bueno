@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:780d18&height=180&section=header&text=Welcome%20to%20my%20little%20corner%20of%20code&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:780d18&height=180&section=header&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=fadeIn"
     width="100%"
   />
 </p>

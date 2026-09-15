@@ -36,6 +36,20 @@
 
 ---
 
+<!-- ==================== ABOUT ME ==================== -->
+
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+  I'm a software developer focused on turning everyday needs into practical software solutions.
+  <br><br>
+  I enjoy building applications, exploring new technologies, and creating projects that solve real-world problems.
+  <br>
+  I'm constantly learning, improving my skills, and looking for new challenges in software development.
+</p>
+
+---
+
 <!-- ==================== TECHNOLOGIES ==================== -->
 
 <h2 align="center">🛠️ Technologies</h2>

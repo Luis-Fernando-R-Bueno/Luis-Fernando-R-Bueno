@@ -44,15 +44,13 @@
 
 <h2 align="center">👋 About Me</h2>
 
-```yaml
-name: Luis Fernando
+<pre align="center"><code>name: Luis Fernando
 role: Software Developer 💻
 focus: Building useful software from everyday ideas ✨
 likes: Running 🏃 · Open Source 🔓 · Technology 💻 · Coffee ☕
 projects: Finance · Healthcare · Developer Tools
 learning: C# · .NET · TypeScript · React · Python
-superpower: Turning everyday needs into software solutions 🚀
-```
+superpower: Turning everyday needs into software solutions 🚀</code></pre>
 
 ---
 
@@ -75,22 +73,19 @@ superpower: Turning everyday needs into software solutions 🚀
 
 <table align="center">
   <tr>
-
     <td width="45%" valign="top" align="center">
 
-      ### 💰 Liora
+      <h3>💰 Liora</h3>
 
-      A personal finance application designed to turn an everyday need into a software solution.
+      <p>
+        A personal finance application designed to turn an everyday need into a software solution.
+      </p>
 
-      ✔ Income and expense tracking
-
-      ✔ Transaction history
-
-      ✔ Custom categories
-
-      ✔ Financial dashboard
-
-      ⏳ Monthly reports
+      <p>✔ Income and expense tracking</p>
+      <p>✔ Transaction history</p>
+      <p>✔ Custom categories</p>
+      <p>✔ Financial dashboard</p>
+      <p>⏳ Monthly reports</p>
 
     </td>
 
@@ -98,22 +93,19 @@ superpower: Turning everyday needs into software solutions 🚀
 
     <td width="45%" valign="top" align="center">
 
-      ### 🏥 awesome-healthcare-brasil
+      <h3>🏥 awesome-healthcare-brasil</h3>
 
-      A curated collection of tools, libraries, APIs, standards, and references for healthcare system developers in Brazil.
+      <p>
+        A curated collection of tools, libraries, APIs, standards, and references for healthcare system developers in Brazil.
+      </p>
 
-      ✔ Resources for healthcare developers
-
-      ✔ Security, LGPD, and interoperability
-
-      ✔ SUS and DATASUS documentation
-
-      ✔ HL7, FHIR, and DICOM standards
-
-      ✔ APIs and Open Source projects
+      <p>✔ Resources for healthcare developers</p>
+      <p>✔ Security, LGPD, and interoperability</p>
+      <p>✔ SUS and DATASUS documentation</p>
+      <p>✔ HL7, FHIR, and DICOM standards</p>
+      <p>✔ APIs and Open Source projects</p>
 
     </td>
-
   </tr>
 </table>
 

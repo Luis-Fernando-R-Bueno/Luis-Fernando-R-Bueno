@@ -7,6 +7,13 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=TURNING+EVERYDAY+NEEDS+INTO+SOFTWARE+SOLUTIONS"
+    alt="Turning everyday needs into software solutions"
+  />
+</p>
+
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
@@ -33,14 +40,6 @@
 </p>
 
 <br>
-
-<!-- ==================== TAGLINE ==================== -->
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Turning%20everyday%20needs%20into%20software%20solutions-9f1d2f?style=for-the-badge&labelColor=9f1d2f&color=9f1d2f"
-  />
-</p>
 
 ---
 

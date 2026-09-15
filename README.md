@@ -38,17 +38,17 @@
 
 <h2 align="center">👋 About Me</h2>
 
-<div align="center">
+```yaml
+name: Luis Fernando
+role: Software Developer 💻
+focus: Building useful software from everyday ideas ✨
+likes: Running 🏃 · Open Source 🔓 · Technology 💻 · Coffee ☕
+projects: Finance · Healthcare · Developer Tools
+learning: C# · .NET · TypeScript · React · Python
+superpower: Turning everyday needs into software solutions 🚀
+```
 
-<pre align="left"><code><span style="color:#9f1d2f;">name:</span> Luis Fernando
-<span style="color:#9f1d2f;">role:</span> Software Developer 💻
-<span style="color:#9f1d2f;">focus:</span> Building useful software from everyday ideas ✨
-<span style="color:#9f1d2f;">likes:</span> Running 🏃 · Open Source 🔓 · Technology 💻 · Coffee ☕
-<span style="color:#9f1d2f;">projects:</span> Finance · Healthcare · Developer Tools
-<span style="color:#9f1d2f;">learning:</span> C# · .NET · TypeScript · React · Python
-<span style="color:#9f1d2f;">superpower:</span> Turning everyday needs into software solutions 🚀</code></pre>
-
-</div>
+---
 
 <!-- ==================== TECHNOLOGIES ==================== -->
 

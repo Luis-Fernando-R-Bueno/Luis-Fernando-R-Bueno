@@ -2,15 +2,8 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:780d18&height=180&section=header&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:780d18&height=180&section=header&text=TURNING%20EVERYDAY%20NEEDS%20INTO%20SOFTWARE%20SOLUTIONS&fontSize=26&fontColor=ffffff&fontAlignY=50&animation=fadeIn"
     width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=TURNING+EVERYDAY+NEEDS+INTO+SOFTWARE+SOLUTIONS"
-    alt="Turning everyday needs into software solutions"
   />
 </p>
 

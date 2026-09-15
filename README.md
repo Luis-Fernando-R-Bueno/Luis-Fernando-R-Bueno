@@ -38,7 +38,7 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Transformando%20necessidades%20do%20dia%20a%20dia%20em%20solu%C3%A7%C3%B5es%20de%20software-9f1d2f?style=for-the-badge&labelColor=9f1d2f&color=9f1d2f"
+    src="https://img.shields.io/badge/Turning%20everyday%20needs%20into%20software%20solutions-9f1d2f?style=for-the-badge&labelColor=9f1d2f&color=9f1d2f"
   />
 </p>
 
@@ -46,12 +46,12 @@
 
 <!-- ==================== TECHNOLOGIES ==================== -->
 
-<h2 align="center">🛠️ Tecnologias</h2>
+<h2 align="center">🛠️ Technologies</h2>
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=cs,dotnet,typescript,react,nodejs,mysql,git,css"
-    alt="C#, .NET, TypeScript, React, Node.js, MySQL, Git e CSS"
+    alt="C#, .NET, TypeScript, React, Node.js, MySQL, Git and CSS"
   />
 </p>
 
@@ -59,9 +59,7 @@
 
 <!-- ==================== PROJECTS ==================== -->
 
----
-
-<h2 align="center">🚀 Principais Projetos</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center">
 <tr>
@@ -70,17 +68,17 @@
 
 ### 💰 Liora
 
-Aplicação para organização financeira pessoal desenvolvida para transformar uma necessidade do dia a dia em uma solução de software.
+A personal finance application designed to turn an everyday need into a software solution.
 
-✔ Cadastro de receitas e despesas
+✔ Income and expense tracking
 
-✔ Histórico de movimentações
+✔ Transaction history
 
-✔ Categorias personalizadas
+✔ Custom categories
 
-✔ Dashboard financeiro
+✔ Financial dashboard
 
-⏳ Relatórios mensais
+⏳ Monthly reports
 
 </td>
 
@@ -90,17 +88,17 @@ Aplicação para organização financeira pessoal desenvolvida para transformar 
 
 ### 🏥 awesome-healthcare-brasil
 
-Uma coleção curada de ferramentas, bibliotecas, APIs, padrões e referências para desenvolvedores de sistemas de saúde no Brasil.
+A curated collection of tools, libraries, APIs, standards, and references for healthcare system developers in Brazil.
 
-✔ Recursos para desenvolvedores da saúde
+✔ Resources for healthcare developers
 
-✔ Segurança, LGPD e interoperabilidade
+✔ Security, LGPD, and interoperability
 
-✔ Documentação do SUS e DATASUS
+✔ SUS and DATASUS documentation
 
-✔ Padrões HL7, FHIR e DICOM
+✔ HL7, FHIR, and DICOM standards
 
-✔ APIs e projetos Open Source
+✔ APIs and Open Source projects
 
 </td>
 
@@ -111,7 +109,7 @@ Uma coleção curada de ferramentas, bibliotecas, APIs, padrões e referências 
 
 <!-- ==================== CONTRIBUTIONS ==================== -->
 
-<h2 align="center">🔥 Sequência de Contribuições</h2>
+<h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
   <img
@@ -125,7 +123,7 @@ Uma coleção curada de ferramentas, bibliotecas, APIs, padrões e referências 
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:780d18&height=130&section=footer&text=Thanks%20for%20visiting!%20❤️&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:780d18&height=130&section=footer&text=Thanks%20for%20visiting!%20❤️&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"
     width="100%"
   />
 </p>

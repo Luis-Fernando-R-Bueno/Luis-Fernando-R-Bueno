@@ -72,9 +72,10 @@ superpower: Turning everyday needs into software solutions 🚀
 
 <td width="45%" valign="top" align="center">
 
-### 💰 Liora
+### 💰 [Liora](https://liora-rho.vercel.app/painel)
 
-A personal finance application designed to turn an everyday need into a software solution.
+A personal finance application designed to make everyday financial management
+simpler, more organized, and easier to understand.
 
 ✔ Income and expense tracking
 

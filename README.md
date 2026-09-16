@@ -76,7 +76,7 @@ superpower: Turning everyday needs into software solutions 🚀
 
 <td width="45%" valign="top" align="center">
 
-### 💰 [Liora](https://liora-rho.vercel.app/painel)
+### 💰 [Liora](https://liora-rho.vercel.app)
 
 A personal finance application built to make everyday financial management simpler, more organized, and easier to understand.
 

@@ -74,15 +74,9 @@ superpower: Turning everyday needs into software solutions 🚀
 
 ### 💰 [Liora](https://liora-rho.vercel.app/painel)
 
-A personal finance application built with React to make everyday financial management simpler, more organized, and easier to understand.
+A personal finance application built to make everyday financial management simpler, more organized, and easier to understand.
 
-⚛️ React 19 · ⚡ Vite 8
-
-📱 Progressive Web App
-
-📴 Offline support
-
-💾 LocalStorage-based data
+**React · TypeScript · Vite**
 
 ✔ Income and expense tracking
 

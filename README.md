@@ -72,10 +72,17 @@ superpower: Turning everyday needs into software solutions 🚀
 
 <td width="45%" valign="top" align="center">
 
-### 💰 [Liora](https://liora-rho.vercel.app)
+### 💰 [Liora](https://liora-rho.vercel.app/painel)
 
-A personal finance application designed to make everyday financial management
-simpler, more organized, and easier to understand.
+A personal finance application built with React to make everyday financial management simpler, more organized, and easier to understand.
+
+⚛️ React 19 · ⚡ Vite 8
+
+📱 Progressive Web App
+
+📴 Offline support
+
+💾 LocalStorage-based data
 
 ✔ Income and expense tracking
 
@@ -95,9 +102,9 @@ simpler, more organized, and easier to understand.
 
 ### 🏥 awesome-healthcare-brasil
 
-A curated collection of tools, libraries, APIs, standards, and references for healthcare system developers in Brazil.
+A curated Markdown resource documenting tools, libraries, APIs, standards, and references for healthcare system developers in Brazil.
 
-✔ Resources for healthcare developers
+✔ Healthcare development resources
 
 ✔ Security, LGPD, and interoperability
 

@@ -64,43 +64,6 @@ superpower: Turning everyday needs into software solutions 🚀
 
 ---
 
-<!-- ==================== COLOR PALETTE ==================== -->
-
-<h2 align="center">🎨 README Color Palette</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Background-%230D1117-0D1117?style=for-the-badge&labelColor=0D1117" alt="Background #0D1117">
-  <img src="https://img.shields.io/badge/Lime-%23D6F45B-D6F45B?style=for-the-badge&labelColor=0D1117" alt="Lime #D6F45B">
-  <img src="https://img.shields.io/badge/Lilac-%23C8B5FF-C8B5FF?style=for-the-badge&labelColor=0D1117" alt="Lilac #C8B5FF">
-  <img src="https://img.shields.io/badge/Coral-%23FF8A6B-FF8A6B?style=for-the-badge&labelColor=0D1117" alt="Coral #FF8A6B">
-  <img src="https://img.shields.io/badge/Sky-%2394D4FF-94D4FF?style=for-the-badge&labelColor=0D1117" alt="Sky #94D4FF">
-  <img src="https://img.shields.io/badge/Sun-%23FFD54A-FFD54A?style=for-the-badge&labelColor=0D1117" alt="Sun #FFD54A">
-  <img src="https://img.shields.io/badge/Mint-%237FE3B5-7FE3B5?style=for-the-badge&labelColor=0D1117" alt="Mint #7FE3B5">
-  <img src="https://img.shields.io/badge/Text-%23E6EDF3-E6EDF3?style=for-the-badge&labelColor=0D1117" alt="Text #E6EDF3">
-  <img src="https://img.shields.io/badge/Muted-%23848D97-848D97?style=for-the-badge&labelColor=0D1117" alt="Muted #848D97">
-</p>
-
-<table align="center">
-  <tr>
-    <td><strong>Background</strong></td>
-    <td><code>#0D1117</code> is a visual reference for banners and badges; the profile page background remains controlled by GitHub and each visitor's theme.</td>
-  </tr>
-  <tr>
-    <td><strong>Text</strong></td>
-    <td><code>#E6EDF3</code> for clear text and <code>#848D97</code> for secondary details.</td>
-  </tr>
-  <tr>
-    <td><strong>Highlights</strong></td>
-    <td>Lime <code>#D6F45B</code> and Lilac <code>#C8B5FF</code> lead the identity, with Coral <code>#FF8A6B</code> and Sky <code>#94D4FF</code> as subtle accents.</td>
-  </tr>
-  <tr>
-    <td><strong>Supporting colors</strong></td>
-    <td>Sun <code>#FFD54A</code> and Mint <code>#7FE3B5</code> round out the palette.</td>
-  </tr>
-</table>
-
----
-
 <!-- ==================== PROJECTS ==================== -->
 
 <h2 align="center">🚀 Featured Projects</h2>

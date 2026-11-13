@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:780d18&height=180&section=header&text=%E2%9C%A8%20Turning%20everyday%20needs%20into%20software%20solutions%20%E2%9C%A8&fontSize=18&fontColor=ffffff&fontAlignY=35&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:d6f45b,100:c8b5ff&height=180&section=header&text=%E2%9C%A8%20Turning%20everyday%20needs%20into%20software%20solutions%20%E2%9C%A8&fontSize=18&fontColor=111111&fontAlignY=35&animation=fadeIn"
     width="100%"
   />
 </p>
@@ -21,14 +21,14 @@
 <p align="center">
 
   <a href="https://www.instagram.com/luisnanddo">
-    <img src="https://img.shields.io/badge/Instagram-9f1d2f?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-ff8a6b?style=for-the-badge&logo=instagram&logoColor=111111"/>
   </a>
 
   <a href="mailto:77luisnando@gmail.com">
-    <img src="https://img.shields.io/badge/Email-9f1d2f?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-d6f45b?style=for-the-badge&logo=gmail&logoColor=111111"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=Luis-Fernando-R-Bueno&label=VISITORS&color=9f1d2f&labelColor=9f1d2f&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Luis-Fernando-R-Bueno&label=VISITORS&color=111111&labelColor=111111&style=for-the-badge" />
 
 </p>
 
@@ -60,6 +60,36 @@ superpower: Turning everyday needs into software solutions 🚀
     alt="C#, .NET, TypeScript, React, Node.js, MySQL, Git and CSS"
   />
 </p>
+
+---
+
+<!-- ==================== VISUAL IDENTITY ==================== -->
+
+<h2 align="center">🎨 README Color Palette</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lime-%23D6F45B-d6f45b?style=for-the-badge&labelColor=111111" alt="Lime #D6F45B">
+  <img src="https://img.shields.io/badge/Lilac-%23C8B5FF-c8b5ff?style=for-the-badge&labelColor=111111" alt="Lilac #C8B5FF">
+  <img src="https://img.shields.io/badge/Coral-%23FF8A6B-ff8a6b?style=for-the-badge&labelColor=111111" alt="Coral #FF8A6B">
+  <img src="https://img.shields.io/badge/Sky-%2394D4FF-94d4ff?style=for-the-badge&labelColor=111111" alt="Sky #94D4FF">
+  <img src="https://img.shields.io/badge/Sun-%23FFD54A-ffd54a?style=for-the-badge&labelColor=111111" alt="Sun #FFD54A">
+  <img src="https://img.shields.io/badge/Mint-%237FE3B5-7fe3b5?style=for-the-badge&labelColor=111111" alt="Mint #7FE3B5">
+</p>
+
+<table align="center">
+  <tr>
+    <td><strong>Base</strong></td>
+    <td>White background and near-black text (<code>#FFFFFF</code> / <code>#111111</code>)</td>
+  </tr>
+  <tr>
+    <td><strong>Highlights</strong></td>
+    <td>Lime for primary accents, with lilac, coral, sky, sun, and mint as supporting colors</td>
+  </tr>
+  <tr>
+    <td><strong>Style</strong></td>
+    <td>Bold headings, colorful badges, and clean sections with plenty of space</td>
+  </tr>
+</table>
 
 ---
 
@@ -123,7 +153,7 @@ A curated Markdown resource documenting tools, libraries, APIs, standards, and r
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:780d18&height=130&section=footer&text=Thanks%20for%20visiting!%20❤️&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7fe3b5,100:94d4ff&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9D%A4%EF%B8%8F&fontSize=20&fontColor=111111&fontAlignY=55&animation=fadeIn"
     width="100%"
   />
 </p>

@@ -63,36 +63,6 @@ superpower: Turning everyday needs into software solutions 🚀
 
 ---
 
-<!-- ==================== VISUAL IDENTITY ==================== -->
-
-<h2 align="center">🎨 README Color Palette</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Lime-%23D6F45B-d6f45b?style=for-the-badge&labelColor=111111" alt="Lime #D6F45B">
-  <img src="https://img.shields.io/badge/Lilac-%23C8B5FF-c8b5ff?style=for-the-badge&labelColor=111111" alt="Lilac #C8B5FF">
-  <img src="https://img.shields.io/badge/Coral-%23FF8A6B-ff8a6b?style=for-the-badge&labelColor=111111" alt="Coral #FF8A6B">
-  <img src="https://img.shields.io/badge/Sky-%2394D4FF-94d4ff?style=for-the-badge&labelColor=111111" alt="Sky #94D4FF">
-  <img src="https://img.shields.io/badge/Sun-%23FFD54A-ffd54a?style=for-the-badge&labelColor=111111" alt="Sun #FFD54A">
-  <img src="https://img.shields.io/badge/Mint-%237FE3B5-7fe3b5?style=for-the-badge&labelColor=111111" alt="Mint #7FE3B5">
-</p>
-
-<table align="center">
-  <tr>
-    <td><strong>Base</strong></td>
-    <td>White background and near-black text (<code>#FFFFFF</code> / <code>#111111</code>)</td>
-  </tr>
-  <tr>
-    <td><strong>Highlights</strong></td>
-    <td>Lime for primary accents, with lilac, coral, sky, sun, and mint as supporting colors</td>
-  </tr>
-  <tr>
-    <td><strong>Style</strong></td>
-    <td>Bold headings, colorful badges, and clean sections with plenty of space</td>
-  </tr>
-</table>
-
----
-
 <!-- ==================== PROJECTS ==================== -->
 
 <h2 align="center">🚀 Featured Projects</h2>

@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="./banner-luis.png"
+    src="https://raw.githubusercontent.com/Luis-Fernando-R-Bueno/Luis-Fernando-R-Bueno/main/banner-luis.png?v=20261113"
     width="100%"
   />
 </p>

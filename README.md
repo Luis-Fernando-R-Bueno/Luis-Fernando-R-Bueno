@@ -151,7 +151,7 @@ A curated Markdown resource documenting tools, libraries, APIs, standards, and r
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:d6f45b,100:c8b5ff&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9D%A4%EF%B8%8F&fontSize=20&fontColor=0D1117&fontAlignY=55&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:d6f45b,100:c8b5ff&height=130&section=footer&text=%F0%9F%92%9A%20Thanks%20for%20visiting!%20%F0%9F%92%9A&fontSize=20&fontColor=0D1117&fontAlignY=55&animation=fadeIn"
     width="100%"
   />
 </p>

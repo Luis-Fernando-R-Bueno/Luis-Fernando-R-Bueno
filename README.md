@@ -97,8 +97,6 @@ A colorful city events hub that brings shows, fairs, sports, culture, and faith 
 
 ⏳ Real login and accounts
 
-🌐 [Live demo](https://divulga-tupa.vercel.app) · 📂 [Repository](https://github.com/Luis-Fernando-R-Bueno/Divulga-Tupa)
-
 </td>
 
 </tr>
@@ -122,8 +120,6 @@ A personal finance application built to make everyday financial management simpl
 
 ⏳ Monthly reports
 
-🌐 [Live demo](https://liora-rho.vercel.app) · 📂 [Repository](https://github.com/Luis-Fernando-R-Bueno/Liora)
-
 </td>
 
 <td width="10%"></td>
@@ -143,8 +139,6 @@ A curated Markdown resource documenting tools, libraries, APIs, standards, and r
 ✔ HL7, FHIR, and DICOM standards
 
 ✔ APIs and Open Source projects
-
-📂 [Repository](https://github.com/Luis-Fernando-R-Bueno/awesome-healthcare-brasil)
 
 </td>
 

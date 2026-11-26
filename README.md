@@ -44,7 +44,7 @@ name: Luis Fernando
 role: Software Developer 💻
 focus: Building useful software from everyday ideas ✨
 likes: Running 🏃 · Open Source 🔓 · Technology 💻 · Coffee ☕
-projects: Finance · Healthcare · Developer Tools
+projects: Local Communities · Finance · Healthcare · Developer Tools
 learning: C# · .NET · TypeScript · React · Python
 superpower: Turning everyday needs into software solutions 🚀
 ```
@@ -75,6 +75,35 @@ superpower: Turning everyday needs into software solutions 🚀
 <table align="center">
 <tr>
 
+<td colspan="3" valign="top" align="center">
+
+### 🎟️ [Divulga](https://divulga-tupa.vercel.app)
+
+**Everything happening in Tupã, in one place.**
+
+A colorful city events hub that brings shows, fairs, sports, culture, and faith events together — for people looking for something to do, and for local organizers who want their events to reach the whole city.
+
+**React · TypeScript · Vite**
+
+✔ City-wide event agenda with categories
+
+✔ Event pages, scheduling, and editing for organizers
+
+✔ "Trending" ranking with weekly and monthly podiums and badges
+
+✔ Public organizer profiles and plans
+
+✔ Playful animations: spiral intro, draggable stickers, category carousel
+
+⏳ Real login and accounts
+
+🌐 [Live demo](https://divulga-tupa.vercel.app) · 📂 [Repository](https://github.com/Luis-Fernando-R-Bueno/Divulga-Tupa)
+
+</td>
+
+</tr>
+<tr>
+
 <td width="45%" valign="top" align="center">
 
 ### 💰 [Liora](https://liora-rho.vercel.app)
@@ -93,13 +122,15 @@ A personal finance application built to make everyday financial management simpl
 
 ⏳ Monthly reports
 
+🌐 [Live demo](https://liora-rho.vercel.app) · 📂 [Repository](https://github.com/Luis-Fernando-R-Bueno/Liora)
+
 </td>
 
 <td width="10%"></td>
 
 <td width="45%" valign="top" align="center">
 
-### 🏥 awesome-healthcare-brasil
+### 🏥 [awesome-healthcare-brasil](https://github.com/Luis-Fernando-R-Bueno/awesome-healthcare-brasil)
 
 A curated Markdown resource documenting tools, libraries, APIs, standards, and references for healthcare system developers in Brazil.
 
@@ -112,6 +143,8 @@ A curated Markdown resource documenting tools, libraries, APIs, standards, and r
 ✔ HL7, FHIR, and DICOM standards
 
 ✔ APIs and Open Source projects
+
+📂 [Repository](https://github.com/Luis-Fernando-R-Bueno/awesome-healthcare-brasil)
 
 </td>
 

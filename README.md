@@ -72,8 +72,6 @@ superpower: Turning everyday needs into software solutions 🚀
   />
 </p>
 
-<br>
-
 ---
 
 <!-- ==================== PROJECTS ==================== -->

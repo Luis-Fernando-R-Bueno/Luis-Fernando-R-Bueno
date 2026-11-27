@@ -22,20 +22,19 @@
 <p align="center">
 
   <a href="https://www.instagram.com/luisnanddo">
-    <img src="https://img.shields.io/badge/Instagram-follow-0D1117?style=for-the-badge&logo=instagram&logoColor=FF8A6B&labelColor=0D1117" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF8A6B&labelColor=0D1117" alt="Instagram"/>
   </a>
 
-  <a href="mailto:77luisnando@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-0D1117?style=for-the-badge&logo=gmail&logoColor=D6F45B&labelColor=0D1117" alt="Email"/>
-  </a>
-
-  </a>
-    <a href="https://www.facebook.com/luisnanddoo">
-    <img src="https://img.shields.io/badge/Facebook-follow-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0D1117" alt="Facebook"/>
+  <a href="https://www.facebook.com/luisnanddoo">
+    <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0D1117" alt="Facebook"/>
   </a>
 
   <a href="https://www.linkedin.com/in/luisnanddo/">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:77luisnando@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D6F45B&labelColor=0D1117" alt="Email"/>
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=Luis-Fernando-R-Bueno&label=VISITORS&color=0D1117&labelColor=0D1117&logo=github&logoColor=C8B5FF&style=for-the-badge" alt="Contador de visitantes"/>

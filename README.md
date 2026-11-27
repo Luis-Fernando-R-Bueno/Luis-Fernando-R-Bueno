@@ -35,7 +35,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/luisnanddo/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-thebadge&logo=linkedin&logoColor=%230A66C2&labelColor=0D1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn"/>
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=Luis-Fernando-R-Bueno&label=VISITORS&color=0D1117&labelColor=0D1117&logo=github&logoColor=C8B5FF&style=for-the-badge" alt="Contador de visitantes"/>

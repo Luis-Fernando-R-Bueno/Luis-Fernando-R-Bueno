@@ -76,9 +76,13 @@ superpower: Turning everyday needs into software solutions 🚀
 
 <h2 align="center">🚀 Featured Projects</h2>
 
+<br>
+
 <p align="center">
   ⭐ <em>Star a repo if you like it — it helps fuel my next PR 🏃</em>
 </p>
+
+<br>
 
 <table align="center">
 <tr>

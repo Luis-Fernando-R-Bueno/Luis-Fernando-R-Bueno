@@ -57,6 +57,8 @@ learning: C# · .NET · TypeScript · React · Python
 superpower: Turning everyday needs into software solutions 🚀
 ```
 
+<br>
+
 ---
 
 <!-- ==================== TECHNOLOGIES ==================== -->
@@ -69,6 +71,8 @@ superpower: Turning everyday needs into software solutions 🚀
     alt="C#, .NET, TypeScript, React, Node.js, MySQL, Git and CSS"
   />
 </p>
+
+<br>
 
 ---
 
